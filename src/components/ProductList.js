@@ -5,7 +5,7 @@ import { ProductConsumer } from '../context';
 export default class ProductList extends Component {
 
     componentDidMount(){
-    alert('Selamat Datang di Toko Makanan, Selamat Berbelanja')
+    alert('Selamat Datang di Toko Obat, Selamat Berbelanja')
     }
     componentWillUnmount() {
     alert('Anda telah menambahkan produk ke keranjang')
